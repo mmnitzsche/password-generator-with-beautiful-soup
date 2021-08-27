@@ -9,7 +9,9 @@ With this code you can generate a password with all characters availed from http
 ## Installation & imports:
 
 `pip install beautifulsoup4`
+
 `https://www.anaconda.com/products/individual`
+
 `Install Jupyter Notebook through Anaconda`
 
 ## ...:
